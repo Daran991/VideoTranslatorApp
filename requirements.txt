@@ -1,0 +1,7 @@
+streamlit
+openai-whisper==20231117 
+transformers
+sentencepiece
+gtts
+pydub
+psutil
