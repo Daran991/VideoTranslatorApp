@@ -190,6 +190,6 @@ if st.button("بدء الترجمة وإنشاء ملف SRT"):
             st.warning("⚠️ الرجاء تحميل ملف فيديو أولاً لبدء الترجمة.")
 
 st.markdown("---")
-st.caption("تم تطوير هذه الأداة باستخدام Streamlit، FFmpeg، Whisper، و Hugging Face MarianMT. بواسطة Gemini AI.")
+st.caption("Ibrahim Owenah.")
 
 
